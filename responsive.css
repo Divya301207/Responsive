@@ -1,0 +1,27 @@
+.heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.image-card-container {
+    background-color: #f9fbfe;
+}
+
+.image {
+    width:70px;
+    height: 100px;
+}
+
+.bg-container {
+    background-color: #f9fbfe;
+    background-size: cover;
+    height: 100vh;
+}
+
+.image-heading {
+    color: #323f4b;
+    font-size: 18px;
+    font-family: "Roboto";
+
+}
