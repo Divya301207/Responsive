@@ -1,0 +1,35 @@
+.bg-container {
+    background-color: #52606d;
+}
+
+.main-head {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main-para {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card1 {
+    background-color: #323f4b;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.image-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.image-paragraph {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+}

@@ -1,0 +1,59 @@
+.main-head {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+.image-card2 {
+    width: 180px;
+    height: 100px;
+}
+
+.card1-head {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 23px;
+
+}
+
+.image-head {
+    color: #1f2933;
+    font-size: 18px;
+
+}
+
+.image1 {
+    width: 250px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+.image2 {
+    width: 250px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+.image3 {
+    width: 250px;
+    height: 180px;
+
+}
+
+.image4 {
+    width: 250px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+.link {
+    color: #ff9f00;
+    font-size: 16px;
+}
+
+.card2-image {
+    width: 200px;
+    height: 180px;
+
+}

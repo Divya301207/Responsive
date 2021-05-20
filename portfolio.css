@@ -1,0 +1,51 @@
+
+.bg-container {
+    background-color: #323f4b;
+
+}
+
+.bg-container1 {
+    background-color: #1f2933;
+
+
+}
+
+.image1 {
+    width: 50px;
+    height: 40px;
+}
+
+.image-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.heading1 {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.paragraph1 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+
+}
+
+.card1 {
+    background-color: #323f4b;
+    border-radius: 5px;
+    width: 100px;
+    height: 80px;
+}

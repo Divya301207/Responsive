@@ -1,0 +1,33 @@
+.Trending-heading {
+    font-weight: bold;
+    font-size: 30px;
+    color: #1f2933;
+    font-family: "Roboto";
+}
+
+.Trending-card {
+    border-radius: 8px;
+}
+
+.Trending-image {
+    width: 510px;
+    height: 200px;
+}
+
+.image-heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #959ead;
+}
+
+.image-paragraph {
+    font-family: "Roboto";
+    font-size: 23px;
+    color: #323f4b;
+}
+
+.Trending-link {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #1754a1;
+}
